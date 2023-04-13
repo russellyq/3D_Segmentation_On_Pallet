@@ -1,0 +1,10 @@
+std_msgs/Header header
+int32 CaptureNext
+---
+std_msgs/Header header
+geometry_msgs/Pose Pallet1
+geometry_msgs/Pose Pallet2
+geometry_msgs/Pose Pallet3
+geometry_msgs/Pose Pallet4
+sensor_msgs/PointCloud2 LiDAR_PointCloud
+sensor_msgs/CompressedImage Camera_Image

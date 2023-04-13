@@ -1,0 +1,5 @@
+int32 CaptureNext
+---
+std_msgs/Header header
+geometry_msgs/Pose Pallet
+float32 Yaw_2D_Radian
